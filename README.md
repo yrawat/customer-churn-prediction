@@ -1,1 +1,1 @@
-# customer-attrition-prediction
+# customer-churn-prediction
